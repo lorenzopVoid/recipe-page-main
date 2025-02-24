@@ -5,11 +5,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Technologies Used](#Technologies-Used)
+  - [Technologies Used](#technologies-Used)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
@@ -22,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution here](https://www.frontendmentor.io/solutions/recipe-page-iEJEnvS277)
+- Live Site URL: [Recipe Page](https://lorenzopvoid.github.io/recipe-page-main/)
 
 ## My process
 
